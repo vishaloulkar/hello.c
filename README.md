@@ -1,8 +1,9 @@
 # hello.c
-Introduction_to_git
+//Introduction_to_git
 #include<stdio.h>
 int main()
 {
-printf("hello git");
+printf("hello world");
+printf("understanding git");
 return 0
 }
